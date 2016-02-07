@@ -1,0 +1,1 @@
+Create a deep comparison function that evaluates objects.
