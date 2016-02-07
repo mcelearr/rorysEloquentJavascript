@@ -1,0 +1,1 @@
+Write a function, flatten that uses reduce to concat a 2D array into one array.
