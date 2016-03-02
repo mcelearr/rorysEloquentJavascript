@@ -1,0 +1,1 @@
+Create a Vector type using a constructor which gives new Vectors properties of x and y and methods plus and minus which can add or subtract a vector given as method parameter. Add a getter property using `Object.defineProperty()`.
