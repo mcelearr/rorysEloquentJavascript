@@ -96,7 +96,7 @@ function charFromElement(element) {
 World.prototype.toString = function() {
   var output = "";
   for (var y = 0; y < this.grid.height; y++) {
-    for (var x = 0; x < this.grid.height; x++) {
+    for (var x = 0; x < this.grid.width; x++) {
       var element = this.grid.get(new Vector(x, y));
       output += charFromElement(element);
     }
