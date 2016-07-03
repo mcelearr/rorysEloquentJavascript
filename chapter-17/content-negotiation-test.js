@@ -1,6 +1,6 @@
 const tape = require("tape");
 const shot = require("shot");
-const handler = require('/content-negotiation.js');
+const handler = require('./content-negotiation.js');
 
 tape('first test', (t) => {
   t.equal(true, true, 'true is equal to true');
