@@ -1,0 +1,16 @@
+{
+  "name": "chapter-17",
+  "version": "1.0.0",
+  "description": "exercise from Eloquent JS",
+  "main": "content-negotiation.js",
+  "scripts": {
+    "test": "node content-negotiation-test.js",
+    "start": "node content-negotiation.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "shot": "^3.1.0",
+    "tape": "^4.6.0"
+  }
+}
